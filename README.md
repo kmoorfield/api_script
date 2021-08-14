@@ -5,3 +5,6 @@ C# API Script to pull dog  facts from a public Flask API Server
 cd C#_code<br>
 dotnet restore .<br>
 dotnet run .<br>
+
+# How this code works
+
